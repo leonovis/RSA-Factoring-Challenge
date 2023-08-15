@@ -1,2 +1,2 @@
 # RSA-Factoring-Challenge
-Encryption factoring challenge for ALX africa
+Encryption factoring challenge for HOLBERTON school.
